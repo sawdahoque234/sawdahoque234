@@ -1,5 +1,5 @@
 ## Hi! I'm Sawda Hoque
-<br>👯 I’m looking to collaborate on github<br>🤝 I’m looking for an Intern or Full-time job<br>🌱 I’m currently learning Next.js<br>💬 Ask me about MERN Stack <br>⚡ Fun fact: I like to read Books
+<br>🤝 I’m looking for an Intern or Full-time job<br>🌱 I’m currently learning Next.js<br>💬 Ask me about MERN Stack <br>⚡ Fun fact: I like to read Books
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sawdahoque/) 
