@@ -1,5 +1,5 @@
 # Hi! I'm Sawda Hoque
-<br>🤝 I’m looking for a team project to contribute!<br>🌱 I’m currently learning Azure<br>💬 Ask me about MERN Stack <br>⚡ Fun fact: I like to read Books
+<br>🤝 I’m looking for a team project to contribute!<br>💬 Ask me about MERN Stack <br>⚡ Fun fact: I like to read Books
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sawdahoque/) 
